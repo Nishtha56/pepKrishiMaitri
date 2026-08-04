@@ -1,0 +1,37 @@
+{
+    "name": "digikheti-backend",
+    "version": "1.0.0",
+    "description": "DigiKheti Backend API - Node.js + Express + MongoDB",
+    "main": "src/server.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/server.js",
+        "dev": "node --watch src/server.js",
+        "seed": "node src/seeds/crops.seed.js"
+    },
+    "keywords": [
+        "agriculture",
+        "farming",
+        "api",
+        "mongodb",
+        "express"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "@google/generative-ai": "^0.24.1",
+        "bcryptjs": "^2.4.3",
+        "cors": "^2.8.5",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2",
+        "express-rate-limit": "^8.2.1",
+        "express-validator": "^7.0.1",
+        "helmet": "^7.1.0",
+        "jsonwebtoken": "^9.0.2",
+        "mongoose": "^8.0.3",
+        "openai": "^6.13.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.2"
+    }
+}
