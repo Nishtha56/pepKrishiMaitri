@@ -71,7 +71,15 @@ Installation
 git clone <YOUR_GIT_REPOSITORY_URL>
 cd krishi-maitri
 npm install
+cp .env.example .env
+cp backend/.env.example backend/.env
 npm run dev
+
+Environment files:
+- Frontend: .env
+- Backend: backend/.env
+
+For Docker Compose, the container environment values are already populated from the compose file, but you can still override them by editing the relevant environment section.
 
 📌 Project Type
 

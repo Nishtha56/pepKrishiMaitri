@@ -36,6 +36,8 @@ jobs:
         env:
           MONGODB_URI: mongodb://127.0.0.1:27017/krishimaitri
           JWT_SECRET: ci-test-secret
+          PORT: 5000
+          NODE_ENV: test
         run: node -e "import('./src/app.js').then(() => console.log('Backend imports OK'))"
 
   docker-build:
