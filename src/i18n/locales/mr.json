@@ -1,0 +1,203 @@
+{
+  "common": {
+    "appName": "शेतकरी मित्र",
+    "welcome": "स्वागत आहे",
+    "loading": "लोड होत आहे...",
+    "error": "त्रुटी",
+    "save": "जतन करा",
+    "cancel": "रद्द करा",
+    "submit": "सबमिट करा",
+    "back": "मागे",
+    "viewAll": "सर्व पहा",
+    "language": "भाषा"
+  },
+  "nav": {
+    "home": "होम",
+    "dashboard": "डॅशबोर्ड",
+    "profile": "प्रोफाइल",
+    "logout": "लॉग आउट"
+  },
+  "landing": {
+    "tagline": "स्मार्ट शेतीसाठी AI-चालित कृषी मार्गदर्शन",
+    "getStarted": "सुरू करा",
+    "signIn": "साइन इन करा",
+    "features": {
+      "aiAssistant": "AI सहाय्यक",
+      "aiAssistantDesc": "कृषी साथी कडून शेती प्रश्नांची त्वरित उत्तरे मिळवा",
+      "cropSuggestions": "पीक सूचना",
+      "cropSuggestionsDesc": "तुमच्या मातीच्या आणि स्थानावर आधारित वैयक्तिक पीक शिफारसी",
+      "weatherForecasts": "हवामान अंदाज",
+      "weatherForecastsDesc": "7-दिवसांचा हवामान अंदाज आणि शेती सल्ला"
+    }
+  },
+  "auth": {
+    "welcomeBack": "पुन्हा स्वागत आहे!",
+    "createAccount": "सुरू करण्यासाठी तुमचे खाते तयार करा",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "signIn": "साइन इन करा",
+    "signUp": "खाते तयार करा",
+    "pleaseWait": "कृपया थांबा...",
+    "needAccount": "खाते हवे? साइन अप करा",
+    "haveAccount": "आधीच खाते आहे? साइन इन करा",
+    "accountCreated": "खाते तयार झाले! कृपया तुमची प्रोफाइल पूर्ण करा।"
+  },
+  "onboarding": {
+    "completeProfile": "तुमची प्रोफाइल पूर्ण करा",
+    "helpUs": "चांगल्या पीक शिफारसी आणि कृषी मार्गदर्शन देण्यात आम्हाला मदत करा",
+    "fullName": "पूर्ण नाव",
+    "phoneNumber": "फोन नंबर",
+    "location": "स्थान (जिल्हा/राज्य)",
+    "locationPlaceholder": "उदा., पुणे, महाराष्ट्र",
+    "pincode": "पिनकोड",
+    "soilType": "मातीचा प्रकार",
+    "selectSoilType": "मातीचा प्रकार निवडा",
+    "landSize": "जमिनीचा आकार (एकर)",
+    "creatingProfile": "प्रोफाइल तयार होत आहे...",
+    "completeSetup": "सेटअप पूर्ण करा",
+    "profileCreated": "प्रोफाइल यशस्वीरित्या तयार झाली!",
+    "soilTypes": {
+      "sandy": "वाळूची",
+      "loamy": "काळी कसदार",
+      "clay": "चिकणमाती",
+      "silt": "गाळाची",
+      "peat": "पीट",
+      "chalk": "चॉक"
+    }
+  },
+  "dashboard": {
+    "aiAssistant": "AI सहाय्यक",
+    "askKrishi": "कृषी साथीला विचारा",
+    "cropTips": "पीक टिप्स",
+    "findBestCrops": "सर्वोत्तम पिके शोधा",
+    "weather": "हवामान",
+    "sevenDayForecast": "7-दिवसांचा अंदाज",
+    "mandiPrices": "मंडी भाव",
+    "todaysRates": "आजचे भाव",
+    "farmProfile": "तुमची शेत प्रोफाइल",
+    "locationLabel": "स्थान",
+    "soilTypeLabel": "मातीचा प्रकार",
+    "landSizeLabel": "जमिनीचा आकार",
+    "pincodeLabel": "पिनकोड",
+    "acres": "एकर",
+    "na": "उपलब्ध नाही",
+    "farmerJournal": "शेतकरी डायरी",
+    "journalDesc": "कॅलेंडर टाइमलाइनसह तुमच्या शेती क्रियाकलापांचा मागोवा घ्या आणि AI-चालित अंदाज मिळवा.",
+    "msp": "किमान आधारभूत किंमत (MSP)",
+    "mspDesc": "खरीप आणि रब्बी पिकांसाठी सरकारने जाहीर केलेले MSP दर वर्षानुसार ट्रेंडसह पहा.",
+    "recentAlerts": "अलीकडील सूचना",
+    "sowing": "पेरणी",
+    "irrigation": "सिंचन",
+    "fertilizer": "खत",
+    "pestIssues": "कीड समस्या",
+    "harvest": "कापणी",
+    "fiveYearTrends": "5-वर्ष ट्रेंड"
+  },
+  "chatbot": {
+    "title": "कृषी साथी",
+    "greeting": "नमस्कार! मी कृषी साथी आहे, तुमचा AI शेती सहाय्यक. आज मी तुम्हाला कशी मदत करू शकतो?",
+    "inputPlaceholder": "पिके, हवामान, कीड याबद्दल विचारा..."
+  },
+  "journal": {
+    "title": "शेतकरी डायरी",
+    "addEntry": "नोंद जोडा",
+    "getAiTips": "AI टिप्स मिळवा",
+    "newEntry": "नवीन डायरी नोंद",
+    "entryType": "नोंद प्रकार",
+    "date": "तारीख",
+    "cropName": "पिकाचे नाव (ऐच्छिक)",
+    "cropPlaceholder": "उदा., गहू, तांदूळ",
+    "quantity": "प्रमाण (ऐच्छिक)",
+    "quantityPlaceholder": "उदा., 50 किलो, 2 एकर",
+    "notes": "नोट्स (ऐच्छिक)",
+    "notesPlaceholder": "अतिरिक्त तपशील...",
+    "saveEntry": "नोंद जतन करा",
+    "aiPredictions": "AI अंदाज आणि टिप्स",
+    "activityTimeline": "क्रियाकलाप टाइमलाइन",
+    "noEntries": "अद्याप कोणतीही नोंद नाही. तुमच्या शेती क्रियाकलापांची नोंद करणे सुरू करा!",
+    "entryAdded": "नोंद जोडली!",
+    "entryAddedDesc": "तुमची डायरी नोंद रेकॉर्ड झाली आहे.",
+    "noEntriesForTips": "AI अंदाज मिळवण्यासाठी प्रथम काही डायरी नोंदी जोडा.",
+    "types": {
+      "sowing": "पेरणी",
+      "irrigation": "सिंचन",
+      "fertilizer": "खत",
+      "pest": "कीड समस्या",
+      "harvest": "कापणी"
+    }
+  },
+  "msp": {
+    "title": "किमान आधारभूत किंमत (MSP)",
+    "subtitle": "कृषी वस्तूंसाठी सरकारने जाहीर केलेल्या किंमती",
+    "whatIsMsp": "MSP म्हणजे काय?",
+    "mspExplanation": "किमान आधारभूत किंमत म्हणजे ती किंमत ज्यावर सरकार शेतकऱ्यांकडून पिके खरेदी करते. हे शेतकऱ्यांना किमतीतील घसरणीपासून संरक्षण देते आणि योग्य परतावा सुनिश्चित करते.",
+    "kharifCrops": "खरीप पिके",
+    "rabiCrops": "रब्बी पिके",
+    "selectCrop": "पीक निवडा",
+    "selectYear": "वर्ष निवडा",
+    "currentMsp": "सध्याचा MSP",
+    "perQuintal": "/क्विंटल",
+    "fiveYearTrend": "5-वर्ष किंमत ट्रेंड",
+    "mspTrendFor": "साठी MSP ट्रेंड",
+    "kharifDesc": "मान्सून पिके (जून-ऑक्टोबर): भात, मका, कापूस, सोयाबीन, इ.",
+    "rabiDesc": "हिवाळी पिके (ऑक्टोबर-मार्च): गहू, बार्ली, हरभरा, मोहरी, इ.",
+    "incomeCalculator": "उत्पन्न कॅल्क्युलेटर",
+    "incomeCalcDesc": "MSP आणि तुमच्या अंदाजित उत्पादनावर आधारित तुमच्या अपेक्षित उत्पन्नाची गणना करा",
+    "calculateIncome": "उत्पन्न गणना करा",
+    "mspAlerts": "MSP सूचना",
+    "mspAlertsDesc": "सरकारने नवीन MSP दर जाहीर केल्यावर सूचित व्हा",
+    "enableAlerts": "सूचना सक्षम करा",
+    "procurementCenters": "सरकारी खरेदी केंद्रे",
+    "procurementDesc": "MSP वर तुमचे उत्पादन विकण्यासाठी जवळचे केंद्रे शोधा",
+    "findNearby": "जवळचे शोधा",
+    "centers": {
+      "apmc": "APMC मंडी",
+      "fci": "FCI डेपो",
+      "cooperative": "सहकारी संस्था",
+      "direct": "थेट खरेदी केंद्र"
+    }
+  },
+  "schemes": {
+    "title": "सरकारी योजना",
+    "gettingSummary": "AI सारांश मिळवत आहे...",
+    "defaultSummary": "शेतकऱ्यांसाठी सरकारी योजना जाणून घ्या ज्यात उत्पन्न सहाय्य, पीक विमा आणि अनुदाने समाविष्ट आहेत.",
+    "pmKisan": "पीएम-किसान",
+    "fasalBima": "पीक विमा",
+    "soilHealthCard": "मृदा आरोग्य कार्ड",
+    "equipmentSubsidy": "उपकरण अनुदान"
+  },
+  "weather": {
+    "title": "हवामान",
+    "humidity": "आर्द्रता",
+    "wind": "वारा",
+    "feelsLike": "जाणवते",
+    "sevenDayForecast": "7-दिवसांचा अंदाज",
+    "farmingAdvice": "शेती सल्ला",
+    "noData": "हवामान डेटा उपलब्ध नाही"
+  },
+  "crops": {
+    "title": "पीक सूचना",
+    "yourSoil": "तुमची माती",
+    "season": "हंगाम",
+    "waterReq": "पाण्याची गरज",
+    "fertilizer": "खत",
+    "yield": "अपेक्षित उत्पादन",
+    "temperature": "आदर्श तापमान",
+    "noCrops": "तुमच्या मातीच्या प्रकारासाठी कोणतेही योग्य पीक सापडले नाही"
+  },
+  "profile": {
+    "title": "तुमची प्रोफाइल",
+    "updateProfile": "प्रोफाइल अद्यतनित करा",
+    "saving": "जतन होत आहे...",
+    "updated": "प्रोफाइल यशस्वीरित्या अद्यतनित झाली!"
+  },
+  "marketPrices": {
+    "title": "बाजार भाव",
+    "refresh": "रिफ्रेश करा",
+    "tip": "मॉडल किंमत ही मंडीतील सर्वात सामान्य व्यापार किंमत आहे",
+    "minPrice": "किमान",
+    "modalPrice": "मॉडल",
+    "maxPrice": "कमाल",
+    "disclaimer": "किंमती सांकेतिक आहेत आणि बदलू शकतात. कृपया स्थानिक मंडीकडून खात्री करा."
+  }
+}

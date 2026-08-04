@@ -1,0 +1,203 @@
+{
+  "common": {
+    "appName": "ਕਿਸਾਨ ਮਿੱਤਰ",
+    "welcome": "ਜੀ ਆਇਆਂ ਨੂੰ",
+    "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "error": "ਗਲਤੀ",
+    "save": "ਸੇਵ ਕਰੋ",
+    "cancel": "ਰੱਦ ਕਰੋ",
+    "submit": "ਜਮ੍ਹਾਂ ਕਰੋ",
+    "back": "ਪਿੱਛੇ",
+    "viewAll": "ਸਭ ਵੇਖੋ",
+    "language": "ਭਾਸ਼ਾ"
+  },
+  "nav": {
+    "home": "ਹੋਮ",
+    "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+    "profile": "ਪ੍ਰੋਫਾਈਲ",
+    "logout": "ਲੌਗ ਆਊਟ"
+  },
+  "landing": {
+    "tagline": "ਸਮਾਰਟ ਖੇਤੀ ਲਈ AI-ਸੰਚਾਲਿਤ ਖੇਤੀਬਾੜੀ ਮਾਰਗਦਰਸ਼ਨ",
+    "getStarted": "ਸ਼ੁਰੂ ਕਰੋ",
+    "signIn": "ਸਾਈਨ ਇਨ ਕਰੋ",
+    "features": {
+      "aiAssistant": "AI ਸਹਾਇਕ",
+      "aiAssistantDesc": "ਕਿਸਾਨ ਸਾਥੀ ਤੋਂ ਖੇਤੀ ਸਵਾਲਾਂ ਦੇ ਤੁਰੰਤ ਜਵਾਬ ਪ੍ਰਾਪਤ ਕਰੋ",
+      "cropSuggestions": "ਫਸਲ ਸੁਝਾਅ",
+      "cropSuggestionsDesc": "ਤੁਹਾਡੀ ਮਿੱਟੀ ਅਤੇ ਸਥਾਨ ਦੇ ਆਧਾਰ 'ਤੇ ਵਿਅਕਤੀਗਤ ਫਸਲ ਸਿਫਾਰਸ਼ਾਂ",
+      "weatherForecasts": "ਮੌਸਮ ਦੀ ਭਵਿੱਖਬਾਣੀ",
+      "weatherForecastsDesc": "7-ਦਿਨ ਦੀ ਮੌਸਮ ਭਵਿੱਖਬਾਣੀ ਅਤੇ ਖੇਤੀ ਸਲਾਹ"
+    }
+  },
+  "auth": {
+    "welcomeBack": "ਵਾਪਸੀ 'ਤੇ ਸਵਾਗਤ ਹੈ!",
+    "createAccount": "ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣਾ ਖਾਤਾ ਬਣਾਓ",
+    "email": "ਈਮੇਲ",
+    "password": "ਪਾਸਵਰਡ",
+    "signIn": "ਸਾਈਨ ਇਨ ਕਰੋ",
+    "signUp": "ਖਾਤਾ ਬਣਾਓ",
+    "pleaseWait": "ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ...",
+    "needAccount": "ਖਾਤੇ ਦੀ ਲੋੜ ਹੈ? ਸਾਈਨ ਅੱਪ ਕਰੋ",
+    "haveAccount": "ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? ਸਾਈਨ ਇਨ ਕਰੋ",
+    "accountCreated": "ਖਾਤਾ ਬਣ ਗਿਆ! ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਪ੍ਰੋਫਾਈਲ ਪੂਰੀ ਕਰੋ।"
+  },
+  "onboarding": {
+    "completeProfile": "ਆਪਣੀ ਪ੍ਰੋਫਾਈਲ ਪੂਰੀ ਕਰੋ",
+    "helpUs": "ਬਿਹਤਰ ਫਸਲ ਸਿਫਾਰਸ਼ਾਂ ਅਤੇ ਖੇਤੀ ਮਾਰਗਦਰਸ਼ਨ ਪ੍ਰਦਾਨ ਕਰਨ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰੋ",
+    "fullName": "ਪੂਰਾ ਨਾਮ",
+    "phoneNumber": "ਫ਼ੋਨ ਨੰਬਰ",
+    "location": "ਸਥਾਨ (ਜ਼ਿਲ੍ਹਾ/ਰਾਜ)",
+    "locationPlaceholder": "ਉਦਾ., ਲੁਧਿਆਣਾ, ਪੰਜਾਬ",
+    "pincode": "ਪਿਨਕੋਡ",
+    "soilType": "ਮਿੱਟੀ ਦੀ ਕਿਸਮ",
+    "selectSoilType": "ਮਿੱਟੀ ਦੀ ਕਿਸਮ ਚੁਣੋ",
+    "landSize": "ਜ਼ਮੀਨ ਦਾ ਆਕਾਰ (ਏਕੜ)",
+    "creatingProfile": "ਪ੍ਰੋਫਾਈਲ ਬਣਾਈ ਜਾ ਰਹੀ ਹੈ...",
+    "completeSetup": "ਸੈੱਟਅੱਪ ਪੂਰਾ ਕਰੋ",
+    "profileCreated": "ਪ੍ਰੋਫਾਈਲ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਈ ਗਈ!",
+    "soilTypes": {
+      "sandy": "ਰੇਤਲੀ",
+      "loamy": "ਦੋਮਟ",
+      "clay": "ਚਿੱਕਣੀ ਮਿੱਟੀ",
+      "silt": "ਗਾਰ",
+      "peat": "ਪੀਟ",
+      "chalk": "ਚਾਕ"
+    }
+  },
+  "dashboard": {
+    "aiAssistant": "AI ਸਹਾਇਕ",
+    "askKrishi": "ਕਿਸਾਨ ਸਾਥੀ ਨੂੰ ਪੁੱਛੋ",
+    "cropTips": "ਫਸਲ ਟਿੱਪਸ",
+    "findBestCrops": "ਸਭ ਤੋਂ ਵਧੀਆ ਫਸਲਾਂ ਲੱਭੋ",
+    "weather": "ਮੌਸਮ",
+    "sevenDayForecast": "7-ਦਿਨ ਦੀ ਭਵਿੱਖਬਾਣੀ",
+    "mandiPrices": "ਮੰਡੀ ਭਾਅ",
+    "todaysRates": "ਅੱਜ ਦੇ ਭਾਅ",
+    "farmProfile": "ਤੁਹਾਡੀ ਖੇਤ ਪ੍ਰੋਫਾਈਲ",
+    "locationLabel": "ਸਥਾਨ",
+    "soilTypeLabel": "ਮਿੱਟੀ ਦੀ ਕਿਸਮ",
+    "landSizeLabel": "ਜ਼ਮੀਨ ਦਾ ਆਕਾਰ",
+    "pincodeLabel": "ਪਿਨਕੋਡ",
+    "acres": "ਏਕੜ",
+    "na": "ਉਪਲਬਧ ਨਹੀਂ",
+    "farmerJournal": "ਕਿਸਾਨ ਡਾਇਰੀ",
+    "journalDesc": "ਕੈਲੰਡਰ ਟਾਈਮਲਾਈਨ ਨਾਲ ਆਪਣੀਆਂ ਖੇਤੀ ਗਤੀਵਿਧੀਆਂ ਟ੍ਰੈਕ ਕਰੋ ਅਤੇ AI-ਸੰਚਾਲਿਤ ਭਵਿੱਖਬਾਣੀਆਂ ਪ੍ਰਾਪਤ ਕਰੋ।",
+    "msp": "ਘੱਟੋ-ਘੱਟ ਸਮਰਥਨ ਮੁੱਲ (MSP)",
+    "mspDesc": "ਖਰੀਫ਼ ਅਤੇ ਰਬੀ ਫਸਲਾਂ ਲਈ ਸਰਕਾਰ ਦੁਆਰਾ ਐਲਾਨੇ MSP ਰੇਟ ਸਾਲ-ਦਰ-ਸਾਲ ਰੁਝਾਨਾਂ ਨਾਲ ਦੇਖੋ।",
+    "recentAlerts": "ਤਾਜ਼ਾ ਚੇਤਾਵਨੀਆਂ",
+    "sowing": "ਬਿਜਾਈ",
+    "irrigation": "ਸਿੰਚਾਈ",
+    "fertilizer": "ਖਾਦ",
+    "pestIssues": "ਕੀੜੇ ਸਮੱਸਿਆਵਾਂ",
+    "harvest": "ਵਾਢੀ",
+    "fiveYearTrends": "5-ਸਾਲ ਰੁਝਾਨ"
+  },
+  "chatbot": {
+    "title": "ਕਿਸਾਨ ਸਾਥੀ",
+    "greeting": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ! ਮੈਂ ਕਿਸਾਨ ਸਾਥੀ ਹਾਂ, ਤੁਹਾਡਾ AI ਖੇਤੀ ਸਹਾਇਕ। ਅੱਜ ਮੈਂ ਤੁਹਾਡੀ ਕਿਵੇਂ ਮਦਦ ਕਰ ਸਕਦਾ ਹਾਂ?",
+    "inputPlaceholder": "ਫਸਲਾਂ, ਮੌਸਮ, ਕੀੜਿਆਂ ਬਾਰੇ ਪੁੱਛੋ..."
+  },
+  "journal": {
+    "title": "ਕਿਸਾਨ ਡਾਇਰੀ",
+    "addEntry": "ਐਂਟਰੀ ਜੋੜੋ",
+    "getAiTips": "AI ਟਿੱਪਸ ਪ੍ਰਾਪਤ ਕਰੋ",
+    "newEntry": "ਨਵੀਂ ਡਾਇਰੀ ਐਂਟਰੀ",
+    "entryType": "ਐਂਟਰੀ ਕਿਸਮ",
+    "date": "ਤਾਰੀਖ਼",
+    "cropName": "ਫਸਲ ਦਾ ਨਾਮ (ਵਿਕਲਪਿਕ)",
+    "cropPlaceholder": "ਉਦਾ., ਕਣਕ, ਚੌਲ",
+    "quantity": "ਮਾਤਰਾ (ਵਿਕਲਪਿਕ)",
+    "quantityPlaceholder": "ਉਦਾ., 50 ਕਿਲੋ, 2 ਏਕੜ",
+    "notes": "ਨੋਟਸ (ਵਿਕਲਪਿਕ)",
+    "notesPlaceholder": "ਵਾਧੂ ਵੇਰਵੇ...",
+    "saveEntry": "ਐਂਟਰੀ ਸੇਵ ਕਰੋ",
+    "aiPredictions": "AI ਭਵਿੱਖਬਾਣੀਆਂ ਅਤੇ ਟਿੱਪਸ",
+    "activityTimeline": "ਗਤੀਵਿਧੀ ਟਾਈਮਲਾਈਨ",
+    "noEntries": "ਅਜੇ ਕੋਈ ਐਂਟਰੀ ਨਹੀਂ। ਆਪਣੀਆਂ ਖੇਤੀ ਗਤੀਵਿਧੀਆਂ ਰਿਕਾਰਡ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ!",
+    "entryAdded": "ਐਂਟਰੀ ਜੋੜੀ ਗਈ!",
+    "entryAddedDesc": "ਤੁਹਾਡੀ ਡਾਇਰੀ ਐਂਟਰੀ ਰਿਕਾਰਡ ਹੋ ਗਈ ਹੈ।",
+    "noEntriesForTips": "AI ਭਵਿੱਖਬਾਣੀਆਂ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਪਹਿਲਾਂ ਕੁਝ ਡਾਇਰੀ ਐਂਟਰੀਆਂ ਜੋੜੋ।",
+    "types": {
+      "sowing": "ਬਿਜਾਈ",
+      "irrigation": "ਸਿੰਚਾਈ",
+      "fertilizer": "ਖਾਦ",
+      "pest": "ਕੀੜੇ ਸਮੱਸਿਆ",
+      "harvest": "ਵਾਢੀ"
+    }
+  },
+  "msp": {
+    "title": "ਘੱਟੋ-ਘੱਟ ਸਮਰਥਨ ਮੁੱਲ (MSP)",
+    "subtitle": "ਖੇਤੀ ਵਸਤੂਆਂ ਲਈ ਸਰਕਾਰ ਦੁਆਰਾ ਐਲਾਨੇ ਭਾਅ",
+    "whatIsMsp": "MSP ਕੀ ਹੈ?",
+    "mspExplanation": "ਘੱਟੋ-ਘੱਟ ਸਮਰਥਨ ਮੁੱਲ ਉਹ ਭਾਅ ਹੈ ਜਿਸ 'ਤੇ ਸਰਕਾਰ ਕਿਸਾਨਾਂ ਤੋਂ ਫਸਲਾਂ ਖਰੀਦਦੀ ਹੈ। ਇਹ ਕਿਸਾਨਾਂ ਨੂੰ ਭਾਅ ਡਿੱਗਣ ਤੋਂ ਬਚਾਉਂਦਾ ਹੈ ਅਤੇ ਉਚਿਤ ਮੁਨਾਫ਼ਾ ਯਕੀਨੀ ਬਣਾਉਂਦਾ ਹੈ।",
+    "kharifCrops": "ਖਰੀਫ਼ ਫਸਲਾਂ",
+    "rabiCrops": "ਰਬੀ ਫਸਲਾਂ",
+    "selectCrop": "ਫਸਲ ਚੁਣੋ",
+    "selectYear": "ਸਾਲ ਚੁਣੋ",
+    "currentMsp": "ਮੌਜੂਦਾ MSP",
+    "perQuintal": "/ਕੁਇੰਟਲ",
+    "fiveYearTrend": "5-ਸਾਲ ਭਾਅ ਰੁਝਾਨ",
+    "mspTrendFor": "ਲਈ MSP ਰੁਝਾਨ",
+    "kharifDesc": "ਮਾਨਸੂਨ ਫਸਲਾਂ (ਜੂਨ-ਅਕਤੂਬਰ): ਝੋਨਾ, ਮੱਕੀ, ਕਪਾਹ, ਸੋਇਆਬੀਨ, ਆਦਿ।",
+    "rabiDesc": "ਸਰਦੀ ਫਸਲਾਂ (ਅਕਤੂਬਰ-ਮਾਰਚ): ਕਣਕ, ਜੌਂ, ਛੋਲੇ, ਸਰ੍ਹੋਂ, ਆਦਿ।",
+    "incomeCalculator": "ਆਮਦਨ ਕੈਲਕੁਲੇਟਰ",
+    "incomeCalcDesc": "MSP ਅਤੇ ਤੁਹਾਡੀ ਅੰਦਾਜ਼ਨ ਉਪਜ ਦੇ ਆਧਾਰ 'ਤੇ ਆਪਣੀ ਅਨੁਮਾਨਿਤ ਆਮਦਨ ਦੀ ਗਣਨਾ ਕਰੋ",
+    "calculateIncome": "ਆਮਦਨ ਗਣਨਾ ਕਰੋ",
+    "mspAlerts": "MSP ਅਲਰਟ",
+    "mspAlertsDesc": "ਜਦੋਂ ਸਰਕਾਰ ਦੁਆਰਾ ਨਵੀਆਂ MSP ਦਰਾਂ ਐਲਾਨੀਆਂ ਜਾਣ ਤਾਂ ਸੂਚਿਤ ਹੋਵੋ",
+    "enableAlerts": "ਅਲਰਟ ਸਮਰੱਥ ਕਰੋ",
+    "procurementCenters": "ਸਰਕਾਰੀ ਖਰੀਦ ਕੇਂਦਰ",
+    "procurementDesc": "MSP 'ਤੇ ਆਪਣੀ ਉਪਜ ਵੇਚਣ ਲਈ ਨਜ਼ਦੀਕੀ ਕੇਂਦਰ ਲੱਭੋ",
+    "findNearby": "ਨੇੜੇ ਲੱਭੋ",
+    "centers": {
+      "apmc": "APMC ਮੰਡੀ",
+      "fci": "FCI ਡਿਪੂ",
+      "cooperative": "ਸਹਿਕਾਰੀ ਸਭਾ",
+      "direct": "ਸਿੱਧੀ ਖਰੀਦ ਕੇਂਦਰ"
+    }
+  },
+  "schemes": {
+    "title": "ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ",
+    "gettingSummary": "AI ਸਾਰ ਪ੍ਰਾਪਤ ਹੋ ਰਿਹਾ ਹੈ...",
+    "defaultSummary": "ਕਿਸਾਨਾਂ ਲਈ ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ ਦੀ ਪੜਚੋਲ ਕਰੋ ਜਿਸ ਵਿੱਚ ਆਮਦਨ ਸਹਾਇਤਾ, ਫਸਲ ਬੀਮਾ ਅਤੇ ਸਬਸਿਡੀਆਂ ਸ਼ਾਮਲ ਹਨ।",
+    "pmKisan": "ਪੀਐਮ-ਕਿਸਾਨ",
+    "fasalBima": "ਫਸਲ ਬੀਮਾ",
+    "soilHealthCard": "ਮਿੱਟੀ ਸਿਹਤ ਕਾਰਡ",
+    "equipmentSubsidy": "ਸਾਜ਼ੋ-ਸਾਮਾਨ ਸਬਸਿਡੀ"
+  },
+  "weather": {
+    "title": "ਮੌਸਮ",
+    "humidity": "ਨਮੀ",
+    "wind": "ਹਵਾ",
+    "feelsLike": "ਮਹਿਸੂਸ ਹੁੰਦਾ ਹੈ",
+    "sevenDayForecast": "7-ਦਿਨ ਦੀ ਭਵਿੱਖਬਾਣੀ",
+    "farmingAdvice": "ਖੇਤੀ ਸਲਾਹ",
+    "noData": "ਮੌਸਮ ਡੇਟਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"
+  },
+  "crops": {
+    "title": "ਫਸਲ ਸੁਝਾਅ",
+    "yourSoil": "ਤੁਹਾਡੀ ਮਿੱਟੀ",
+    "season": "ਮੌਸਮ",
+    "waterReq": "ਪਾਣੀ ਦੀ ਲੋੜ",
+    "fertilizer": "ਖਾਦ",
+    "yield": "ਅਨੁਮਾਨਿਤ ਉਪਜ",
+    "temperature": "ਆਦਰਸ਼ ਤਾਪਮਾਨ",
+    "noCrops": "ਤੁਹਾਡੀ ਮਿੱਟੀ ਦੀ ਕਿਸਮ ਲਈ ਕੋਈ ਢੁਕਵੀਂ ਫਸਲ ਨਹੀਂ ਮਿਲੀ"
+  },
+  "profile": {
+    "title": "ਤੁਹਾਡੀ ਪ੍ਰੋਫਾਈਲ",
+    "updateProfile": "ਪ੍ਰੋਫਾਈਲ ਅੱਪਡੇਟ ਕਰੋ",
+    "saving": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
+    "updated": "ਪ੍ਰੋਫਾਈਲ ਸਫਲਤਾਪੂਰਵਕ ਅੱਪਡੇਟ ਹੋ ਗਈ!"
+  },
+  "marketPrices": {
+    "title": "ਬਾਜ਼ਾਰ ਭਾਅ",
+    "refresh": "ਰਿਫ੍ਰੈਸ਼ ਕਰੋ",
+    "tip": "ਮੋਡਲ ਭਾਅ ਮੰਡੀ ਵਿੱਚ ਸਭ ਤੋਂ ਆਮ ਵਪਾਰਕ ਭਾਅ ਹੈ",
+    "minPrice": "ਘੱਟੋ-ਘੱਟ",
+    "modalPrice": "ਮੋਡਲ",
+    "maxPrice": "ਵੱਧੋ-ਵੱਧ",
+    "disclaimer": "ਭਾਅ ਸੰਕੇਤਕ ਹਨ ਅਤੇ ਵੱਖਰੇ ਹੋ ਸਕਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਸਥਾਨਕ ਮੰਡੀ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "common": {
+    "appName": "ખેડૂત મિત્ર",
+    "welcome": "સ્વાગત છે",
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "error": "ભૂલ",
+    "save": "સાચવો",
+    "cancel": "રદ કરો",
+    "submit": "સબમિટ કરો",
+    "back": "પાછળ",
+    "viewAll": "બધું જુઓ",
+    "language": "ભાષા"
+  },
+  "nav": {
+    "home": "હોમ",
+    "dashboard": "ડેશબોર્ડ",
+    "profile": "પ્રોફાઇલ",
+    "logout": "લોગ આઉટ"
+  },
+  "landing": {
+    "tagline": "સ્માર્ટ ખેતી માટે AI-સંચાલિત કૃષિ માર્ગદર્શન",
+    "getStarted": "શરૂ કરો",
+    "signIn": "સાઇન ઇન કરો",
+    "features": {
+      "aiAssistant": "AI સહાયક",
+      "aiAssistantDesc": "કૃષિ સાથીમાંથી ખેતી પ્રશ્નોના તાત્કાલિક જવાબો મેળવો",
+      "cropSuggestions": "પાક સૂચનો",
+      "cropSuggestionsDesc": "તમારી જમીન અને સ્થાન પર આધારિત વ્યક્તિગત પાક ભલામણો",
+      "weatherForecasts": "હવામાન આગાહી",
+      "weatherForecastsDesc": "7-દિવસની હવામાન આગાહી અને ખેતી સલાહ"
+    }
+  },
+  "auth": {
+    "welcomeBack": "પાછા સ્વાગત છે!",
+    "createAccount": "શરૂ કરવા માટે તમારું એકાઉન્ટ બનાવો",
+    "email": "ઈમેલ",
+    "password": "પાસવર્ડ",
+    "signIn": "સાઇન ઇન કરો",
+    "signUp": "એકાઉન્ટ બનાવો",
+    "pleaseWait": "કૃપા કરી રાહ જુઓ...",
+    "needAccount": "એકાઉન્ટ જોઈએ છે? સાઇન અપ કરો",
+    "haveAccount": "પહેલેથી એકાઉન્ટ છે? સાઇન ઇન કરો",
+    "accountCreated": "એકાઉન્ટ બનાવ્યું! કૃપા કરી તમારી પ્રોફાઇલ પૂર્ણ કરો."
+  },
+  "onboarding": {
+    "completeProfile": "તમારી પ્રોફાઇલ પૂર્ણ કરો",
+    "helpUs": "વધુ સારી પાક ભલામણો અને કૃષિ માર્ગદર્શન પ્રદાન કરવામાં અમને મદદ કરો",
+    "fullName": "પૂરું નામ",
+    "phoneNumber": "ફોન નંબર",
+    "location": "સ્થાન (જિલ્લો/રાજ્ય)",
+    "locationPlaceholder": "દા.ત., અમદાવાદ, ગુજરાત",
+    "pincode": "પિનકોડ",
+    "soilType": "જમીનનો પ્રકાર",
+    "selectSoilType": "જમીનનો પ્રકાર પસંદ કરો",
+    "landSize": "જમીનનું કદ (એકર)",
+    "creatingProfile": "પ્રોફાઇલ બનાવી રહ્યા છીએ...",
+    "completeSetup": "સેટઅપ પૂર્ણ કરો",
+    "profileCreated": "પ્રોફાઇલ સફળતાપૂર્વક બનાવવામાં આવી!",
+    "soilTypes": {
+      "sandy": "રેતાળ",
+      "loamy": "કઠોર",
+      "clay": "માટીવાળી",
+      "silt": "કાંપ",
+      "peat": "પીટ",
+      "chalk": "ચાક"
+    }
+  },
+  "dashboard": {
+    "aiAssistant": "AI સહાયક",
+    "askKrishi": "કૃષિ સાથીને પૂછો",
+    "cropTips": "પાક ટિપ્સ",
+    "findBestCrops": "શ્રેષ્ઠ પાક શોધો",
+    "weather": "હવામાન",
+    "sevenDayForecast": "7-દિવસની આગાહી",
+    "mandiPrices": "મંડી ભાવ",
+    "todaysRates": "આજના ભાવ",
+    "farmProfile": "તમારી ખેત પ્રોફાઇલ",
+    "locationLabel": "સ્થાન",
+    "soilTypeLabel": "જમીનનો પ્રકાર",
+    "landSizeLabel": "જમીનનું કદ",
+    "pincodeLabel": "પિનકોડ",
+    "acres": "એકર",
+    "na": "ઉપલબ્ધ નથી",
+    "farmerJournal": "ખેડૂત ડાયરી",
+    "journalDesc": "કેલેન્ડર ટાઇમલાઇન સાથે તમારી ખેતી પ્રવૃત્તિઓ ટ્રેક કરો અને AI-સંચાલિત આગાહીઓ મેળવો.",
+    "msp": "લઘુત્તમ ટેકાનો ભાવ (MSP)",
+    "mspDesc": "ખરીફ અને રવિ પાક માટે સરકાર દ્વારા જાહેર MSP દરો વર્ષ-વાર વલણો સાથે જુઓ.",
+    "recentAlerts": "તાજેતરની ચેતવણીઓ",
+    "sowing": "વાવણી",
+    "irrigation": "સિંચાઈ",
+    "fertilizer": "ખાતર",
+    "pestIssues": "જીવાત સમસ્યાઓ",
+    "harvest": "કાપણી",
+    "fiveYearTrends": "5-વર્ષ વલણો"
+  },
+  "chatbot": {
+    "title": "કૃષિ સાથી",
+    "greeting": "નમસ્તે! હું કૃષિ સાથી છું, તમારો AI ખેતી સહાયક. આજે હું તમને કેવી રીતે મદદ કરી શકું?",
+    "inputPlaceholder": "પાક, હવામાન, જીવાત વિશે પૂછો..."
+  },
+  "journal": {
+    "title": "ખેડૂત ડાયરી",
+    "addEntry": "એન્ટ્રી ઉમેરો",
+    "getAiTips": "AI ટિપ્સ મેળવો",
+    "newEntry": "નવી ડાયરી એન્ટ્રી",
+    "entryType": "એન્ટ્રી પ્રકાર",
+    "date": "તારીખ",
+    "cropName": "પાકનું નામ (વૈકલ્પિક)",
+    "cropPlaceholder": "દા.ત., ઘઉં, ચોખા",
+    "quantity": "જથ્થો (વૈકલ્પિક)",
+    "quantityPlaceholder": "દા.ત., 50 કિલો, 2 એકર",
+    "notes": "નોંધ (વૈકલ્પિક)",
+    "notesPlaceholder": "વધારાની વિગતો...",
+    "saveEntry": "એન્ટ્રી સાચવો",
+    "aiPredictions": "AI આગાહીઓ અને ટિપ્સ",
+    "activityTimeline": "પ્રવૃત્તિ ટાઇમલાઇન",
+    "noEntries": "હજુ સુધી કોઈ એન્ટ્રી નથી. તમારી ખેતી પ્રવૃત્તિઓ રેકોર્ડ કરવાનું શરૂ કરો!",
+    "entryAdded": "એન્ટ્રી ઉમેરાઈ!",
+    "entryAddedDesc": "તમારી ડાયરી એન્ટ્રી રેકોર્ડ થઈ ગઈ છે.",
+    "noEntriesForTips": "AI આગાહીઓ મેળવવા માટે પહેલા કેટલીક ડાયરી એન્ટ્રીઓ ઉમેરો.",
+    "types": {
+      "sowing": "વાવણી",
+      "irrigation": "સિંચાઈ",
+      "fertilizer": "ખાતર",
+      "pest": "જીવાત સમસ્યા",
+      "harvest": "કાપણી"
+    }
+  },
+  "msp": {
+    "title": "લઘુત્તમ ટેકાનો ભાવ (MSP)",
+    "subtitle": "કૃષિ ચીજવસ્તુઓ માટે સરકાર દ્વારા જાહેર કરાયેલા ભાવ",
+    "whatIsMsp": "MSP શું છે?",
+    "mspExplanation": "લઘુત્તમ ટેકાનો ભાવ એ ભાવ છે જેના પર સરકાર ખેડૂતો પાસેથી પાક ખરીદે છે. તે ખેડૂતોને ભાવ ઘટાડાથી રક્ષણ આપે છે અને યોગ્ય વળતર સુનિશ્ચિત કરે છે.",
+    "kharifCrops": "ખરીફ પાક",
+    "rabiCrops": "રવિ પાક",
+    "selectCrop": "પાક પસંદ કરો",
+    "selectYear": "વર્ષ પસંદ કરો",
+    "currentMsp": "વર્તમાન MSP",
+    "perQuintal": "/ક્વિન્ટલ",
+    "fiveYearTrend": "5-વર્ષ ભાવ વલણ",
+    "mspTrendFor": "માટે MSP વલણ",
+    "kharifDesc": "ચોમાસાના પાક (જૂન-ઓક્ટોબર): ડાંગર, મકાઈ, કપાસ, સોયાબીન, વગેરે.",
+    "rabiDesc": "શિયાળાના પાક (ઓક્ટોબર-માર્ચ): ઘઉં, જવ, ચણા, સરસવ, વગેરે.",
+    "incomeCalculator": "આવક કેલ્ક્યુલેટર",
+    "incomeCalcDesc": "MSP અને તમારી અંદાજિત ઉપજના આધારે તમારી અપેક્ષિત આવકની ગણતરી કરો",
+    "calculateIncome": "આવક ગણતરી કરો",
+    "mspAlerts": "MSP ચેતવણીઓ",
+    "mspAlertsDesc": "જ્યારે સરકાર દ્વારા નવા MSP દર જાહેર થાય ત્યારે સૂચિત થાઓ",
+    "enableAlerts": "ચેતવણીઓ સક્ષમ કરો",
+    "procurementCenters": "સરકારી ખરીદ કેન્દ્રો",
+    "procurementDesc": "MSP પર તમારી ઉપજ વેચવા માટે નજીકના કેન્દ્રો શોધો",
+    "findNearby": "નજીકમાં શોધો",
+    "centers": {
+      "apmc": "APMC મંડી",
+      "fci": "FCI ડેપો",
+      "cooperative": "સહકારી મંડળી",
+      "direct": "સીધી ખરીદ કેન્દ્ર"
+    }
+  },
+  "schemes": {
+    "title": "સરકારી યોજનાઓ",
+    "gettingSummary": "AI સારાંશ મેળવી રહ્યા છીએ...",
+    "defaultSummary": "ખેડૂતો માટે સરકારી યોજનાઓ અન્વેષણ કરો જેમાં આવક સહાય, પાક વીમો અને સબસિડી સામેલ છે.",
+    "pmKisan": "પીએમ-કિસાન",
+    "fasalBima": "પાક વીમો",
+    "soilHealthCard": "જમીન આરોગ્ય કાર્ડ",
+    "equipmentSubsidy": "સાધન સબસિડી"
+  },
+  "weather": {
+    "title": "હવામાન",
+    "humidity": "ભેજ",
+    "wind": "પવન",
+    "feelsLike": "લાગે છે",
+    "sevenDayForecast": "7-દિવસની આગાહી",
+    "farmingAdvice": "ખેતી સલાહ",
+    "noData": "હવામાન ડેટા ઉપલબ્ધ નથી"
+  },
+  "crops": {
+    "title": "પાક સૂચનો",
+    "yourSoil": "તમારી જમીન",
+    "season": "ઋતુ",
+    "waterReq": "પાણીની જરૂરિયાત",
+    "fertilizer": "ખાતર",
+    "yield": "અપેક્ષિત ઉપજ",
+    "temperature": "આદર્શ તાપમાન",
+    "noCrops": "તમારી જમીનના પ્રકાર માટે કોઈ યોગ્ય પાક મળ્યો નથી"
+  },
+  "profile": {
+    "title": "તમારી પ્રોફાઇલ",
+    "updateProfile": "પ્રોફાઇલ અપડેટ કરો",
+    "saving": "સાચવી રહ્યા છીએ...",
+    "updated": "પ્રોફાઇલ સફળતાપૂર્વક અપડેટ થઈ!"
+  },
+  "marketPrices": {
+    "title": "બજાર ભાવ",
+    "refresh": "રિફ્રેશ કરો",
+    "tip": "મોડલ ભાવ મંડીમાં સૌથી સામાન્ય વેપાર ભાવ છે",
+    "minPrice": "ન્યૂનતમ",
+    "modalPrice": "મોડલ",
+    "maxPrice": "મહત્તમ",
+    "disclaimer": "ભાવ સૂચક છે અને બદલાઈ શકે છે. કૃપા કરી સ્થાનિક મંડી સાથે ચકાસો."
+  }
+}
