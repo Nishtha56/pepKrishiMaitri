@@ -17,13 +17,15 @@ services:
     restart: unless-stopped
     depends_on:
       - mongo
+    env_file:
+      - backend/.env
     environment:
       NODE_ENV: production
       PORT: 5000
       MONGODB_URI: mongodb://admin:admin@mongo:27017/krishimaitri?authSource=admin
       JWT_SECRET: change-me-in-production
       JWT_EXPIRES_IN: 7d
-      FRONTEND_URL: http://localhost:80,http://localhost:5173,http://localhost:8081
+      FRONTEND_URL: http://localhost,http://localhost:80,http://localhost:5173,http://localhost:8081
       LOVABLE_API_KEY: ""
       GEMINI_API_KEY: ""
       GROQ_API_KEY: ""
@@ -37,6 +39,8 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
+        # Use relative /api path — nginx proxies it to the backend container
+        # This avoids CORS issues entirely
         VITE_API_URL: /api
     restart: unless-stopped
     depends_on:
